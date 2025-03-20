@@ -1,0 +1,55 @@
+li {
+    font-weight: 700;
+    font-size: 32px;
+}
+.html {
+    color: #DB4C24;
+}
+.css {
+    color: #254BDD;
+}
+.js {
+    color: #CCB029;
+}
+.react {
+    color: #48CEF7;
+}
+.tailwind {
+    color: #00B3D1;
+}
+/* #html {
+    font-size: 32px;
+}
+#css {
+    font-size: 32px;
+}
+#js {
+    font-size: 32px;
+}
+#react {
+    font-size: 32px;
+}
+#tailwind {
+    font-size: 32px;
+} */
+
+[class] {
+    background-color: black;
+}
+/* [] this box represents attribute selector */
+
+[anjali] {
+    background-color: burlywood;
+}
+[anjali="j"] {
+    background-color: crimson;
+}
+.first p {
+    background-color: green;
+}
+h1:hover {
+    color: #DB4C24;
+}
+[anjali="m"]:hover {
+    color: palevioletred;
+}

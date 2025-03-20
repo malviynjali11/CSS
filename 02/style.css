@@ -1,0 +1,35 @@
+.one{
+    background-color: bisque;
+    width: 800px;
+    padding: 25px;
+    border: 50px solid teal;
+    box-sizing: border-box;
+    margin: 100px;
+    border-radius: 20px;
+}
+.two{
+    background-color: coral;
+    width: 800px;
+    padding: 25px;
+    border: 50px solid chartreuse;
+    box-sizing: border-box;
+    margin: 100px;
+    border-radius: 30px;
+}
+.pup{
+    width: 600px;
+    height: 600px;
+    padding: 25px;
+    border: 10px solid black;
+    box-sizing: border-box;
+    margin: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    align-items: center;
+    outline: 5px solid darkgreen;
+}
+img{
+    width: 160%;
+    margin-top: -25px;
+    margin-left: -100px;
+}

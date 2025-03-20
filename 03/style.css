@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+p{
+    background-color: green;
+    width: 300px;
+    height: 100px;
+    padding: 25px;
+    box-sizing: border-box;
+    border: 10px solid red;
+    margin: 25px;
+}
+span{
+    background-color: brown;
+    width: 150px;
+    height:40px;
+    padding: 25px;
+    display: block;
+    /* display: inline-block; */
+    border: 10px solid black;
+}
+iframe{
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+}
