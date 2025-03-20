@@ -1,0 +1,19 @@
+html{
+    height: 600px;
+    background-color: rgb(104, 104, 253);
+    border: 20px solid magenta;
+}
+body{
+    margin: 0;
+    height: 50%;
+    background-color: rgb(235, 144, 144);
+}
+.box{
+    background-color: chartreuse;
+    max-width: 50%;
+    font-size: 200%;
+    /* width: 50vw; */
+    margin: 20%;
+    border: 2vw solid darkgoldenrod;
+    height: 50vh;
+}
