@@ -1,0 +1,18 @@
+div{
+    /* position: relative; */
+    background-color: chartreuse;
+    /* top: 5px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    inset: 5px; */
+}
+.wd{
+    background-color: aquamarine;
+    position: absolute;
+}
+body{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/776/370/desktop-wallpaper-4u-cute-dolls-for-facebook-profile-barbie-dolls-thumbnail.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
